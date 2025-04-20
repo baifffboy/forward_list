@@ -1,0 +1,104 @@
+﻿  4 lab_AiSD.cpp
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(221,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(227,26): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(275,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(283,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(290,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,53): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,53): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,53): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,53): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,53): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,25): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,25): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,25): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,25): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,25): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,100): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,100): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,100): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,100): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,100): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,72): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,72): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,72): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,72): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,72): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,147): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,147): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,147): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,147): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,147): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,119): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,119): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,119): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,119): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(292,119): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,53): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,53): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,53): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,53): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,53): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,25): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,25): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,25): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,25): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,25): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,100): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,100): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,100): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,100): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,100): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,72): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,72): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,72): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,72): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,72): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,147): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,147): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,147): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,147): warning C4244:             _Ty=int
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,147): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,119): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,119): warning C4244:         with
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,119): warning C4244:         [
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,119): warning C4244:             _Ty=double
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(295,119): warning C4244:         ]
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+C:\Users\ilya_\source\repos\4 lab_AiSD\forward_list.h(299,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "4%20lab_AiSD.cpp")
+  
+  4 lab_AiSD.vcxproj -> C:\Users\ilya_\source\repos\4 lab_AiSD\x64\Debug\4 lab_AiSD.exe
